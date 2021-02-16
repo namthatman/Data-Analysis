@@ -1,2 +1,2 @@
-# Data-Analysis
-Collection of various data analysis workbooks
+# Data Analysis
+My collection of various data analysis workbooks
